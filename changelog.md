@@ -3,3 +3,5 @@
 -Feature 2: index.html feito
 # 0.1.1
 -Bugfix 1: title modificado
+# 0.2.1
+-Feature 3: styles.css criado
